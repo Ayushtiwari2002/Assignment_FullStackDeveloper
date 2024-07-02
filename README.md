@@ -19,7 +19,7 @@ Make sure you have Git installed on your local machine.
 Installation
 Clone the repository:
 
-git clone https://github.com/bhargavtz/task-manager.git
+
 Open the index.html file in your preferred web browser.
 
 Usage
